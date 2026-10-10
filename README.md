@@ -14,6 +14,5 @@ A continuació es mostra l'aparença de la interfície d'usuari de l'aplicació 
 
 | Mode Clar | Mode Fosc |
 | :---: | :---: |
-|<img width="404" height="861" alt="Captura de pantalla 2026-10-09 192231" src="https://github.com/user-attachments/assets/9c54727d-7141-4218-9156-abd2840d8233" />
- | <img width="408" height="818" alt="Captura de pantalla 2026-10-10 112924" src="https://github.com/user-attachments/assets/8f13f8bb-a53b-4829-b96c-95e68b3ac580" />
- |
+|<img width="404" height="861" alt="Captura de pantalla 2026-10-09 192231" src="https://github.com/user-attachments/assets/9c54727d-7141-4218-9156-abd2840d8233" />|
+ |<img width="408" height="818" alt="Captura de pantalla 2026-10-10 112924" src="https://github.com/user-attachments/assets/8f13f8bb-a53b-4829-b96c-95e68b3ac580" />
